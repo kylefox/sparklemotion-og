@@ -1,7 +1,9 @@
 sparklemotion
 =============
 
-experiments in code and motion. http://sparklemotion.me/
+experiments in code and motion.
+
+http://sparklemotion.kylefox.ca/
 
 Currently pulling old experiments into this project. Eventually I'd like to have this project be super cleverly laid so it's dead simple to write/publish a new experiment. But for now I'm just dumping straight HTML and ugly JavaScript.
 
